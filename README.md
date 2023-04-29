@@ -1,7 +1,7 @@
 #  Automatic Calculation App
 ### 自動計算アプリ
 
-![アプリの画像](./img/Calculator%20App.png)
+<img width="1248" alt="Calculator App" src="https://user-images.githubusercontent.com/127412829/235304842-718971e4-4e58-4405-bc59-e0a7b4aab94a.png">
 
 ### 使い方
 「金額」欄の金額ボタンを`クリック`すると
